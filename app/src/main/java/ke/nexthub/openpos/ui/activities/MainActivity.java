@@ -1,8 +1,10 @@
-package ke.nexthub.openpos;
+package ke.nexthub.openpos.ui.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import ke.nexthub.openpos.R;
 
 public class MainActivity extends AppCompatActivity {
 
